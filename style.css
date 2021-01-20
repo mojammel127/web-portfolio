@@ -1,0 +1,98 @@
+body{
+    font-family: 'Yusei Magic', sans-serif;
+    margin:0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
+
+.titel-name{
+    color: rgb(247, 202, 3);
+}
+
+.haft-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.haft-width img{
+    width: 100%;
+    padding-top: 30px;
+}
+.top-bg{
+    background-image: url(complete-web/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+section{
+    height: 500px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+    margin-left: 250px;
+
+
+}
+
+.dream-area{
+    background-image: url(complete-web/developer-portfolio/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 20px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.single-exp{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    height:400px ;
+    margin-bottom: 30px;
+}
+
+.exprence-area{
+    background-image: url(complete-web/developer-portfolio/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 200px;
+  
+}
+
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(140deg, lightSalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(140deg, #51c6fc, rgb(80, 102, 228));
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+.ex{
+    text-align: center;
+}
